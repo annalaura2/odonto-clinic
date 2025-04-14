@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Technology",
+    "content": "We are not satisfied with the average. Our goal is to serve you and treat you with judicious methods.",
+    "icon": "/icon/Tecnology.svg",
+    "boxShadow": "0 4px 6px rgba(255, 0, 0, 0.6)"
+  },
+  {
+    "title": "Qualification",
+    "content": "We are not satisfied with the average. Our goal is to serve you and treat you with judicious methods.",
+    "icon": "/icon/Award.svg",
+    "boxShadow": "0 4px 7px rgba(255, 255, 0, 0.6)"
+  },
+  {
+    "title": "Technology",
+    "content": "We are not satisfied with the average. Our goal is to serve you and treat you with judicious methods.",
+    "icon": "/icon/Agendamento.svg",
+    "boxShadow": "0 4px 6px rgba(128, 0, 128, 0.6)"
+  }
+]
